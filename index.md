@@ -3,12 +3,12 @@ layout: page
 title: Controlling a quadcopter with your mind using MATLAB
 ---
 
-This is a capstone example to apply the core software carpentry skills in the field of biomedical engineering. 
+This is a capstone example to apply the core Software Carpentry skills in the field of biomedical engineering. 
 The goal is to read in EEG data and plot the brain activity in response to a hand squeeze. 
 
 Along the way, we will also learn about:
 
-* loading .mat-files 
+* loading .'mat'-files 
 * logical indexing
 * finding resources
 * animating a plot
@@ -16,8 +16,8 @@ Along the way, we will also learn about:
 
 > ## Prerequisites {.prereq}
 >
-> * Participation in MATLAB software carpentry lesson
+> * Participation in a MATLAB Software Carpentry lesson
 
 ## Topics
 
-1.  [Controlling a quadcopter with your mind](capstone-biomedical-engineering.html)
+1.  [Controlling a quadcopter with your mind](01-biomedeng.html)
