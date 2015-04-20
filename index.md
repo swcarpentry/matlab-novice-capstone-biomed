@@ -8,7 +8,7 @@ The goal is to read in EEG data and plot the brain activity in response to a han
 
 Along the way, we will also learn about:
 
-* loading .'mat'-files 
+* loading `.mat`-files 
 * logical indexing
 * finding resources
 * animating a plot
