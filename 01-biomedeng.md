@@ -6,8 +6,8 @@ minutes: 30
 ---
 
 > ## Learning Objectives {.objectives}
-> * Apply the core software carpentry skills in the field of biomedical engineering.
-> * Loading .mat-files 
+> * Apply the core Software Carpentry skills in the field of biomedical engineering.
+> * Loading `.mat`-files 
 > * Logical indexing
 
 Some researchers were able to control a quadrocoptor with [nothing but thoughts](https://www.youtube.com/watch?v=-h3kiws4I54). 
