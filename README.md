@@ -2,6 +2,7 @@ capstone-biomedical-engineering
 ==========================
 
 Application of MATLAB on the example of EEG data. Suitable as an extension to novice lessons.
+Lesson page: http://swcarpentry.github.io/matlab-novice-capstone-biomed/
 
 > Please see [https://github.com/swcarpentry/lesson-example](https://github.com/swcarpentry/lesson-example)
 > for instructions on formatting, building, and submitting lessons,
